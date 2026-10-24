@@ -1,0 +1,16 @@
+# Challenge archive
+
+Breaq-Hackthon-challenges.zip contains 71 organized files copied from the existing challenge workspace.
+
+Extract it to obtain Breaq-Hackthon-project/challenges/ with:
+
+01_trust_no_input - corrected CH1 notebook, service, instance, answers and extracted plots.
+02_treacherous_transpiler - completed CH2 notebook, report, verifier and experimental evidence.
+03_quantum_dice - generator, fairness checker, saved CSV streams and existing plot.
+04_bb84 - Bob, channel simulator, experiment runner and existing results/plot.
+05_shor_in_miniature - teaching simulator, demonstration output and modular-period plot.
+06_hardware_surprise - documentation-status figure only; no public brief or hardware result is claimed.
+
+The archive preserves the existing source files and results and excludes virtual environments, Python caches and credential folders. The Shor teaching simulator does not implement the complete circuit-level challenge. Existing plots were retained; CH1 plots were extracted from its notebook. New Python plots illustrate Shor arithmetic and the absence of supplied hardware materials.
+
+The organizer's license and attribution are included. README.md inside the archive indexes the files.
